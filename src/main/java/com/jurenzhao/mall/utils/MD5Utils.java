@@ -21,5 +21,6 @@ public class MD5Utils {
 
     public void ceshi(){
         System.out.println("xxxxx");
+        System.out.println("hot-fix add");
     }
 }
