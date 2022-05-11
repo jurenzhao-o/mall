@@ -18,4 +18,8 @@ public class MD5Utils {
     public static String md5Digest(String source){
         return DigestUtils.md5Hex(source+Constant.SALT);
     }
+
+    public void ceshi(){
+
+    }
 }
