@@ -23,5 +23,6 @@ public class MD5Utils {
         System.out.println("xxxxx");
         System.out.println("master提交");
         System.out.println("hot-fix add");
+        System.out.println("dierci");
     }
 }
